@@ -21,7 +21,7 @@ class _DetailPageState extends State<DetailPage> {
           dummyAnimals[widget.index].name,
           style: TextStyle(
             fontWeight: FontWeight.bold,
-            color: Color.fromARGB(255, 169, 7, 48),
+            color: Color.fromARGB(255, 219, 64, 103),
           ),
         ),
         actions: [
